@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace ReqFerramentas
 {
-    public partial class FrmMenu : Form
+    public partial class frmColaboradores : Form
     {
-        public FrmMenu()
+        public frmColaboradores()
         {
             InitializeComponent();
         }
